@@ -1,0 +1,11 @@
+@import "./styles/variables";
+
+.app {
+  text-align: center;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+}
